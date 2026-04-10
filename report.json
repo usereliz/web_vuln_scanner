@@ -1,0 +1,15 @@
+{
+  "scan_info": {
+    "target": "http://localhost:8000/login?redirect=/home&user=admin",
+    "timestamp": "2026-04-10T22:38:35.557395",
+    "scanner": "Web Vulnerability Scanner v1.0",
+    "total_findings": 0
+  },
+  "findings": [],
+  "summary": {
+    "critical": 0,
+    "high": 0,
+    "medium": 0,
+    "info": 0
+  }
+}
